@@ -9,4 +9,4 @@
 - Calendar with all the important dates of the current season
 - Present chess problems that visitors can try to solve
 - Presents a set of links to other sites (game platform, clubs in the region, etc)
-- Includes a link to the club's Facebook page (https://www.facebook.com/PontarlierEchecs/)
+- Includes a link to the club's [Facebook page](https://www.facebook.com/PontarlierEchecs/)
