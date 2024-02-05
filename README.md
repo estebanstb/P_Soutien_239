@@ -15,3 +15,7 @@ If we only count the work I do while I'm at school, I work on this project every
 - Includes a link to the club's [Facebook page](https://www.facebook.com/PontarlierEchecs/)
 
 ## Figma mockup
+Project not yet finished.
+
+## How to use the project
+Project not yet finished.
