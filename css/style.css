@@ -28,6 +28,7 @@ li {
 }
 
 li a {
+  margin-right: 80px;
   display: block;
   color: #2e3640;
   text-align: center;
