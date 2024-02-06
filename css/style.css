@@ -20,7 +20,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  font-size: 55px;
+  font-size: 45px;
 }
 
 li {
@@ -37,5 +37,5 @@ li a {
 }
 
 li a:hover {
-  color: #bad5ff;
+  color: #a0c3fa;
 }
