@@ -1,3 +1,40 @@
+@font-face {
+  font-family: "LilitaOne";
+  src: url(../font/LilitaOne-Regular.ttf) format("truetype");
+}
+
 body {
   background-color: white;
+  font-family: "LilitaOne", sans-serif;
+  margin: 0%;
+}
+
+#homeBanner {
+  background-image: url(../src/img/homeMAINbanner.png);
+  width: 1920px;
+  height: 1080px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-size: 55px;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: #2e3640;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: #bad5ff;
 }
