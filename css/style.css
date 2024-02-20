@@ -11,7 +11,7 @@ body {
 
 #homeBanner {
   background-image: url(../src/img/homeMAINbanner.png);
-  width: 1920px;
+  width: auto;
   height: 1080px;
 }
 
